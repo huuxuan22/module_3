@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        #header {
+            width: 100%;
+            height: 60px;
+            background-color: rgb(42, 40, 40);
+            border: 1px solid black;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+
+        #header .Menu {
+            margin: 0;
+            padding: 0;
+            position: absolute;
+            top: 0;
+        }
+
+        #aside {
+            width: 20%;
+            height: 600px;
+            background-color: rgb(211, 207, 207);
+            float: left;
+        }
+
+        #section-article {
+            width: 60%;
+            height: 600px;
+            border-color: grey;
+            float: left;
+        }
+
+        #section {
+            width: 95%;
+            height: 50%;
+            background-color: white;
+            position: relative;
+
+
+        }
+
+        #article {
+            width: 100%;
+            height: 50%;
+        }
+
+        #nav {
+            width: 20%;
+            height: 600px;
+            background-color: rgb(211, 207, 207);
+            float: left;
+        }
+
+        #footer {
+            width: 100%;
+            height: 80px;
+            background-color: rgb(53, 55, 57);
+            clear: both;
+            text-align: center;
+            line-height: 80px;
+            color: white;
+            font-family: 20px;
+        }
+
+        #header ul li {
+            padding: 0;
+            margin: 0;
+        }
+
+        #header li {
+            position: relative;
+            float: left;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #header li a {
+            font-size: 20px;
+            width: 100px;
+            height: 60px;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+            color: rgb(232, 222, 222);
+            line-height: 60px;
+        }
+
+        #header ul li:hover {
+            background-color: black;
+        }
+
+        #header ul li a:hover {
+            color: rgb(78, 132, 142);
+        }
+
+        #aside ul li {
+            padding: 0;
+            margin: 0;
+        }
+
+        header li {
+            position: relative;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+
+        }
+
+        #aside ul li a {
+            width: 100%;
+            height: 40px;
+            display: block;
+            text-decoration: none;
+            text-align: center;
+            line-height: 60px;
+            color: rgb(34, 34, 193);
+            font-size: 20px;
+        }
+
+        #section-article #section h1 {
+            margin-top: 30px;
+            font-size: 60px;
+        }
+
+        #section-article #section .Preface {
+            margin-top: 30px;
+        }
+
+        #section-article #section p {
+            font-size: 20px;
+        }
+
+        #section {
+            margin-left: 20px;
+        }
+
+        #article {
+            position: relative;
+        }
+
+        #article .test {
+            position: absolute;
+            width: 95%;
+            height: 100%;
+
+            border-top: 1px solid grey;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        #article h1 {
+            margin-top: 20px;
+        }
+
+        #nav ul li {
+            list-style: none;
+        }
+
+        #nav ul li a {
+            text-decoration: none;
+            width: 200px;
+            height: 100px;
+            text-align: center;
+            display: block;
+            border: 1px solid rgb(183, 163, 163);
+            line-height: 100px;
+            margin-top: 50px;
+        }
+
+        #nav .select {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            /* Canh giữa theo chiều ngang */
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <div class="Menu">
+            <ul>
+                <li><a href="#">Logo</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Contact</a></li>
+
+            </ul>
+        </div>
+    </div>
+    <div id="aside">
+        <ul>
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+        </ul>
+    </div>
+    <div id="section-article">
+        <div id="section">
+            <h1>Welcome</h1>
+            <div class="Preface">
+                <p>
+                    Hòa bình là trạng thái lý tưởng mà mọi người trên thế giới mong muốn. Nó không chỉ là sự thiếu chiến
+                    tranh mà còn bao gồm sự hòa thuận, tôn trọng, và tương tác tích cực giữa các quốc gia, cộng đồng, và
+                    cá nhân. Hòa bình đặt nền móng cho sự phát triển bền vững, giáo dục toàn diện, và sự chia sẻ công
+                    bằng của các nguồn lực. Trong xã hội hòa bình, mọi người có quyền tự do ngôn luận và ý kiến, gặp gỡ
+                    văn hóa, và phát triển tiềm năng cá nhân mà không lo sợ xung đột.
+                </p>
+            </div>
+        </div>
+        <div id="article">
+            <div class="test">
+                <h1>Test</h1>
+                <div>Lorem Ispum......</div>
+            </div>
+        </div>
+    </div>
+    <div id="nav">
+        <div class="select">
+            <ul>
+                <li><a href="#">ADS</a></li>
+                <li><a href="#">ADS</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="footer">Footer</div>
+</body>
+
+</html>
