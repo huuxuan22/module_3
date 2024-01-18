@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        #Menu,
+        #Menu ul,
+        #Menu li {
+            padding: 0;
+            margin: 0;
+        }
+
+        #Menu li {
+            list-style: none;
+            position: relative;
+            text-decoration: none;
+            width: 100px;
+            height: 30px;
+            padding: 0 20px;
+            background-color: grey;
+            line-height: 30px;
+            cursor: pointer;
+        }
+
+        #Menu li a {
+            text-decoration: none;
+            color: white;
+        }
+
+        #Menu li:hover {
+            background-color: black;
+        }
+
+        #Menu ul ul {
+            position: absolute;
+            top: 0;
+            left: 140px;
+            visibility: hidden;
+        }
+
+        #Menu ul li:hover ul {
+            visibility: visible;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>ACCP IP10</h1>
+    <div id="Menu">
+        <ul>
+            <li><a href="#"> mục 1</a>
+                <ul>
+                    <li><a href="#">Lập trình c</a></li>
+                    <li><a href="#">Lập trình java</a></li>
+                    <li><a href="#">Lập trình golang</a></li>
+                    <li><a href="#">Lập trình c</a></li>
+                    <li><a href="#">Lập trình C++</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Mục 2</a>
+                <ul>
+                    <li><a href="#">Sql</a></li>
+                    <li><a href="#">Lập trình java</a></li>
+                    <li><a href="#">Lập trình golang</a></li>
+                    <li><a href="#">Lập trình c</a></li>
+                    <li><a href="#">Lập trình C++</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Mục 3</a>
+                <ul>
+                    <li><a href="#">Sql</a></li>
+                    <li><a href="#">Lập trình java</a></li>
+                    <li><a href="#">Lập trình golang</a></li>
+                    <li><a href="#">Lập trình c</a></li>
+                    <li><a href="#">Lập trình C++</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Mục 4</a>
+                <ul>
+                    <li><a href="#">Sql</a></li>
+                    <li><a href="#">Lập trình java</a></li>
+                    <li><a href="#">Lập trình golang</a></li>
+                    <li><a href="#">Lập trình c</a></li>
+                    <li><a href="#">Lập trình C++</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</body>
+
+</html>
