@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d12f6ab1-33a8-4ae2-9246-582cd625ced6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Module_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/.idea/Bai_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_11/demo_jstl_c0723/.idea/demo_jstl_c0723.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai_thi_Lai/Bai_Thi_Lai/src/main/java/com/example/demo/controller/FillterUTF8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_7/.idea/Phan_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/tinhToan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/tinhToan/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/tinhToan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/tinhToan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phan_9/tinhToan/src/main/webapp/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo11/Bai_11/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo11/Bai_11/demo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo11/Bai_11/demo/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo11/Bai_11/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo11/Bai_11/demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo11/Bai_11/demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phan_7/layoutWithRWD.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Phan_7/layoutWithRWD.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Phan_8/webBanDidong.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Phan_8/webBanDidong.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2cwJU8bMHiVkX74iHeKIh73IWA2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Module_3/Furama_CaseStudy/Furama&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d12f6ab1-33a8-4ae2-9246-582cd625ced6" name="Changes" comment="" />
+      <created>1709016720614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709016720614</updated>
+      <workItem from="1709016721745" duration="11000" />
+      <workItem from="1709016778956" duration="221000" />
+      <workItem from="1709829958242" duration="129000" />
+      <workItem from="1709830379066" duration="21000" />
+      <workItem from="1710832924441" duration="67000" />
+      <workItem from="1711441165803" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
